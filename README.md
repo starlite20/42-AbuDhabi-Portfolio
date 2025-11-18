@@ -16,3 +16,11 @@ This repository serves as a comprehensive **proof of work**, demonstrating my pr
 * **Problem-Solving**
 * **Project Development**
 * **Creative Thinking**
+
+## 🚀 Project Directory
+
+| Project      | Status                                                                 | Score                                                     | Repository Link                                         | Description                                                            |
+|--------------|-------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------|
+| **Piscine**  | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | ![Score](https://img.shields.io/badge/Score-100%25-brightgreen) | [Piscine Repo](https://github.com/starlite20/42-piscine)   | The introductory bootcamp covering C basics, shell, and fundamental algorithms. |
+| **Libft**    | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | ![Score](https://img.shields.io/badge/Score-125%25-brightgreen) | [Libft Repo](https://github.com/starlite20/42-Libft)     | Custom C standard library implementation.                             |
+| **ft_printf**| ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | ![Score](https://img.shields.io/badge/Score--blue)               | _link coming soon_                                       | Recreating the `printf()` function in C.                              |
