@@ -13,6 +13,7 @@ A central hub for my 42 School journey, with the collection of all **personal an
 
 This repository serves as a comprehensive **proof of work**, demonstrating my proficiency in: 
 * **Programming Skills** 
+* **Solution Architecting** 
 * **Problem-Solving**
 * **Project Development**
 * **Creative Thinking**
@@ -38,4 +39,5 @@ This repository serves as a comprehensive **proof of work**, demonstrating my pr
 | **python_module_08**| ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | ![Score](https://img.shields.io/badge/Score-100%25-brightgreen)               | [python_module_08 Repo](https://github.com/starlite20/42-PythonModules/tree/main/PythonModule08)     |  Experimenting with Virtual Environment and Package Management.                              |
 | **python_module_09**| ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | ![Score](https://img.shields.io/badge/Score-100%25-brightgreen)               | [python_module_09 Repo](https://github.com/starlite20/42-PythonModules/tree/main/PythonModule09)     |  Working with Pydantic for Data Validation in Python.                              |
 | **python_module_10**| ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | ![Score](https://img.shields.io/badge/Score-100%25-brightgreen)               | [python_module_10 Repo](https://github.com/starlite20/42-PythonModules/tree/main/PythonModule10)     |  Exploring the FuncTools, Lambda, Callable and Decorators available in Python.                              |
-| **A-Maze-ing**| ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | ![Score](https://img.shields.io/badge/Score--blue)               | _link coming soon_                                       | work in progress.                              |
+| **A-Maze-ing**| ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | ![Score](https://img.shields.io/badge/Score-125%25-brightgreen)               | [python_module_10 Repo](https://github.com/starlite20/a-maze-ing)     |  Deep diving into Maze Generation and Solving through several Graph Algorithms such as DFS, Ellers and BFS in Python.                              |
+| **Fly-In**| ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | ![Score](https://img.shields.io/badge/Score--blue)               | _link coming soon_                                       | work in progress.                              |
